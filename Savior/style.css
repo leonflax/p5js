@@ -1,4 +1,4 @@
-html,body {
+html, body{
   margin: 0;
   padding: 0;
   height: 100%;
@@ -9,7 +9,7 @@ body{
   align-items: center;
   justify-content: center;
 }
-canvas {
+canvas{
   display: block;
   cursor: pointer;
   border-radius: 10px;

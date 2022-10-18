@@ -9,7 +9,7 @@ function forPoints(forRefresh, pSize) {
 
   strokeWeight(pSize);
 
-  for (let i = 0; i <= 50; i += forRefresh) {
+  for(let i = 0; i <= 50; i += forRefresh) {
     let x = random(width);
     let y = random(height);
     point(x, y);
@@ -17,15 +17,15 @@ function forPoints(forRefresh, pSize) {
 }
 
 function strobe() {
-  if (mouseButton == LEFT && !strobeFX) {
+  if(mouseButton == LEFT && !strobeFX) {
     strobeFX = true;
-  } else if (mouseButton == LEFT && strobeFX) {
+  } else if(mouseButton == LEFT && strobeFX) {
     strobeFX = false;
   }
 }
 
 function strobeCheck() {
-  if (strobeFX == true) {
+  if(strobeFX == true) {
     tipoBlend = DIFFERENCE;
   } else {
     tipoBlend = LIGHTEST;
