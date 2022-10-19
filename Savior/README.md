@@ -5,4 +5,4 @@
 Instructions: 
 - Open index.html
 - Move the mouse through the image
-- Background colors will vary dependant on the pixel in wich you currently are
+- Background colors will vary depending on the pixel you are currently on.
