@@ -1,4 +1,4 @@
-# P5.js art made by ***Leon Flax***
+# "Savior" - P5.js art made by ***Leon Flax***
 
 ## Model: *Alexandra Savior*
 
