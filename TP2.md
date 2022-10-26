@@ -17,10 +17,12 @@ Lo que vemos no es en sí una figura, sino el reflejo de la misma generado por u
 A partir de una [obra anterior](https://editor.p5js.org/leonflax/sketches/ozPs_hhMs) percibí la capacidad de la iluminación en figuras 3D de mostrar algo que no es (una ilusión) y generar un efecto visual interesante partiendo de una figura central en movimiento.
 En este caso utilizando una esfera y moviendo los ejes de una única luz, la idea es que el espectador pueda viajar con la música y atravesar por las etapas propuestas por las canciones mismas.
 
-Si bien no se presenta un efecto especialmente impactante a primera vista, busca en cierta forma un paralelismo con los happenings de meter al espectador en la obra misma, en un contexto muy distinto gracias al uso de la computadora y la representación a través de una pantalla, por lo que en este caso esa inclusión es más abstracta que objetiva. Salvando tambien las distancias estructurales y de improvisación, que al contrario de los happenings, en este caso se presenta una estructura fija que se va a repetir indefinidamente. 
+Si bien no se presenta un efecto especialmente impactante a primera vista, intenta de cierta forma meter al espectador en la obra misma, presentando un recorrido estructurado para atravesar. Recorrido que puede ser percibido de distintas formas dependiendo del espectador y el entorno en el que lo mira.  
 
-Me resulta interesante también pensar en el contexto de la obra que en este caso cambia constantemente, ya que el espectador la reproduce en su espacio de preferencia, generando muchas maneras posibles de percibir la obra, principalmente considerando que se basa en la iluminación con mucha oscuridad presente. 
+Me resulta interesante también pensar en el contexto de la obra que en este caso cambia constantemente, ya que el espectador la reproduce en su espacio de preferencia, generando muchas maneras posibles de percibir la obra, principalmente considerando que se basa en la iluminación con mucha oscuridad presente.
 
-En relación a lo técnico, me tuve que abstener completamente de agregar múltiples efectos y figuras con el fin de entretener al espectador, ya que rompería con el código conceptual presentado.
+La elección del soundtrack fue lo más natural posible, para intentar plasmar el sentimiento deseado sin estar pensando en si me gusta un artista en particular o no y sí seleccionando aquellos tracks que me hagan sentir dentro de la obra y se sientan como parte de ella desde un principio.
+
+En cuanto al contenido visual, me tuve que abstener completamente de agregar múltiples efectos y figuras con el fin de entretener al espectador, ya que rompería con el código conceptual presentado.
 
 Esta preocupación por el entretenimiento del que especta la obra surge principalmente de la actualidad del mundo (y de muchos tipos de arte) y su necesidad de tener todo al instante con muchos estímulos sensoriales,  por lo tanto en esta obra se busca invitar al espectador a bajar un poco y mirar una atmósfera más fluctuante que impactante.
