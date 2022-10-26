@@ -14,7 +14,7 @@ Lo que vemos es el contorno de una figura generado por la iluminación directa a
 
 ## Desarrollo técnico, estético y conceptual
 
-A partir de una [obra anterior](https://editor.p5js.org/leonflax/sketches/ozPs_hhMs) percibí la capacidad de la iluminación en figuras 3D de mostrar algo que no es (una ilusión) y generar un efecto visual interesante partiendo de una figura central en movimiento.
+A partir de una obra anterior que realicé (["Spotlight"](https://editor.p5js.org/leonflax/sketches/ozPs_hhMs)) percibí la capacidad de la iluminación en figuras 3D de mostrar algo que no es (una ilusión) y generar un efecto visual interesante partiendo de una figura central en movimiento.
 En este caso utilizando una esfera y moviendo los ejes de una única luz, la idea es que el espectador pueda viajar con la música y atravesar por las etapas propuestas por las canciones mismas.
 
 Si bien no se presenta un efecto especialmente impactante a primera vista, intenta de cierta forma meter al espectador en la obra misma, presentando un recorrido estructurado para atravesar. Recorrido que puede ser percibido de distintas formas dependiendo del espectador y el entorno en el que lo mira.  
