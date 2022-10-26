@@ -25,3 +25,12 @@ Expandiendo sobre la frase antes dicha "uno produce y esa misma producción nos 
 En cuanto a las referencias visuales, la principal fue la obra "City Painting" de Grace Hertlein; gran inspiración para esta realización. Sin esa referencia la obra muy probablemente sería completamente distinta, careciendo de una figura "principal" sobre la cual basar los distintos movimientos. 
 
 Para concluir, la última referencia fue la obra "ZAHN2VAR1" de Herbert Franke, que me sirvió mucho para definir cómo iba a realizar lo que se podría entender como el "fondo" de la obra. Si bien la original de Franke es más compleja y a color, tomé lo que vi como central y lo plasmé de la forma más simple posible.
+
+### City Planning (Grace Hertlein) 
+
+<img src="https://pbs.twimg.com/media/EzNMjx0VoA40Ucf.png" width=40%>
+
+### ZAHN2VAR1 (Herbert Franke) 
+
+<img src="https://www.artmajeur.com/medias/hd/w/e/webist-herbert-w-franke/artwork/707053_Moholynagyfranke2.jpg" width=40%>
+
