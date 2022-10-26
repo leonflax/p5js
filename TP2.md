@@ -1,8 +1,8 @@
-# Representación Visual
+# Representación Visual de la Idea
 
 ## León Flax - 2022
 
-### Acceso: [Representación Visual -  p5.js](https://editor.p5js.org/leonflax/sketches/z8cZGVsiQ)
+### Acceso: [Representación Visual de la Idea -  p5.js](https://editor.p5js.org/leonflax/sketches/z8cZGVsiQ)
 
 ## Introducción
 
@@ -10,7 +10,7 @@ Haciendo uso de pura iluminación, a partir de una sola figura y varias piezas m
 
 La misma representa las variaciones posibles que se pueden lograr a partir de un mismo elemento enfocado de distintos puntos de vista.
 
-Lo que vemos no es en sí una figura, sino el reflejo de la misma generado por una determinada iluminación, que puede variar en color y posición pero será en fin siempre la misma luz. Logrando así generar cierta dinámica sin la necesidad de utilizar interacciones periféricas o una cantidad exagerada de elementos, corriendo el riesgo de saturar el lienzo (lo cual podría llegar a ser deseado en algún caso determinado). Esto logra entonces poder tener un foco principal marcado sobre la iluminación de la figura sin distracciones por parte de la obra misma.
+Lo que vemos es el contorno de una figura generado por la iluminación directa a la figura y por la ausencia de luz ambiente. Esta iluminación directa puede variar en color y posición pero será en fin siempre la misma luz. Logrando así generar cierta dinámica sin la necesidad de utilizar interacciones periféricas o una cantidad exagerada de elementos, corriendo el riesgo de saturar el lienzo (lo cual podría llegar a ser deseado en algún caso determinado). Esto logra entonces poder tener un foco principal marcado sobre la iluminación de la figura sin distracciones por parte de la obra misma.
 
 ## Desarrollo técnico, estético y conceptual
 
